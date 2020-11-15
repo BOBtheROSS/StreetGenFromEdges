@@ -1,5 +1,11 @@
 # Street Generation From Edges
-created for Blender 2.90  
+created for Blender 2.90 but might work for alder versions  
+
+# Description
+You can find the genrate button in the Sidebar of the 3D View. There is a tab called Gen.  
+![Example_flat](./images/Sidebar.png)  
+This Blender script generates street like geometry from the edges of a user created base mesh object.  
+![Example](./images/Example.png)  
 
 # Setup
 In Blender navigate to:  
@@ -8,11 +14,8 @@ and select the "StreetGenFromEdges.py" file
 
 Alternatively copy the text inside the script "StreetGenFromEdges.py" file into the text editor and press the "Run Script" button (might be just a triangle/play symbol).  
 You can find it in the sidebar in the "Gen" Tab.  
-![Example_flat](./images/Sidebar.png)  
 
 # Important Note
-This Blender script generates street like geometry from the edges of a user created base mesh object.  
-![Example](./images/Example.png)  
 This script is intended to work with 2D like mesh objects.  
 You can scale your base mesh vertices (in edit mode) on the local z-axis to zero to make sure it is planar.
 ![Example_flat](./images/Example_flat.png)
