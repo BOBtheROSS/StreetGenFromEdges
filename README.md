@@ -7,8 +7,8 @@ In Blender navigate to:
 and select the "StreetGenFromEdges.py" file  
 
 Alternatively copy the text inside the script "StreetGenFromEdges.py" file into the text editor and press the "Run Script" button (might be just a triangle/play symbol).  
-You can find it in the sidebar in the "Gen" Tab.
-![Example_flat](./images/Sidebar.png)
+You can find it in the sidebar in the "Gen" Tab.  
+![Example_flat](./images/Sidebar.png)  
 
 #Desctiption
 This Blender script generates street like geometry from the edges of a user created base mesh object.  
