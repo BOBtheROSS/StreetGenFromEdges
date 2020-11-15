@@ -15,6 +15,8 @@ This script is intended to work with 2D like mesh objects. If
 ![Example_flat](./images/Example_flat.png)
 You can scale your base mesh vertices (in edit mode) on the local z-axis to zero to make sure it is planar.
 ![Example_flat](./images/Example_flat.png)
+You can find it in the sidebar in the "Gen" Tab.
+![Example_flat](./images/Sidebar.png)
 
 Set the bevel size (length) of an arc for the street corners. The bevel is always based on the inner edge of a street corner. Also, dead ends of the street network can have beveled ends attached.
 ![Bevel](./images/Interface_01.png)
