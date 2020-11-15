@@ -1,7 +1,7 @@
 # Street Generation From Edges
 created for Blender 2.90  
 
-#Setup
+# Setup
 In Blender navigate to:  
 "Edit >> Preferences... >> Add-Ons (Category) > Install..."  
 and select the "StreetGenFromEdges.py" file  
@@ -10,7 +10,7 @@ Alternatively copy the text inside the script "StreetGenFromEdges.py" file into 
 You can find it in the sidebar in the "Gen" Tab.  
 ![Example_flat](./images/Sidebar.png)  
 
-#Desctiption
+# Desctiption
 This Blender script generates street like geometry from the edges of a user created base mesh object.  
 ![Example](./images/Example.png)  
 This script is intended to work with 2D like mesh objects.  
