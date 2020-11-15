@@ -1,5 +1,5 @@
 # Street Generation From Edges
-created for Blender 2.90 but might work for alder versions  
+created for Blender 2.90 but might work for older versions  
 
 # Description
 You can find the generate button in the Sidebar of the 3D View (to the right or press N to toggle it). In the Sidebar is a tab called Gen.  
